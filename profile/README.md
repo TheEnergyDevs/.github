@@ -16,7 +16,11 @@ We're based in the 🇬🇧 United Kingdom, which is miles better than "The Land
 
 You can visit and contact us:
 
-🌐 https://www.energy-os.uk/
+🌐 https://www.theenergydevs.uk/
 
 ✉️ mailto:hello@energy-os.uk
+
+## Want to find out more about EnergyOS?
+
+🌐 https://energyos.theenergydevs.uk
 
